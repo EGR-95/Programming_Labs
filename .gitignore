@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+.venv*/
+
+# __pycache__ and compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# MacOS / Linux metadata
+.DS_Store
+*.swp
+
