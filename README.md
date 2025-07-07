@@ -13,5 +13,9 @@ This repository contains source code, notes, and solutions for various programmi
 - Bash
 - Git
 
+# Repo 
+- Github
+- Gitlab
+
 # Platforms
 - Leetcode
