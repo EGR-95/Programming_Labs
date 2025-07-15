@@ -3,7 +3,7 @@
 # Check if the virtual environment exists
 if [ ! -d .venv-bhp ]; then
     echo "[*] Creating virtual environment: .venv-bhp"
-    python3 -m venv .venv-bhp
+    python -m venv .venv-bhp
 fi
 
 # Activate the virtual environment
