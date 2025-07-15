@@ -9,7 +9,7 @@ client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 # send some data
 
-client.sendto(b"Test", (target_host, target_port))
+client.sendto(b"Hello", (target_host, target_port))
 
 # recieve some data
 data, addr = client.recvfrom(4096)
